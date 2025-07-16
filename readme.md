@@ -33,7 +33,7 @@
     git push --set-upstream origin main
 ```
 
-## CREACIÓN DE RAMAS
+## 2. CREACIÓN DE RAMAS
 
 - Para crear la rama y cambiar a esta, use el siguiente comando
 ```bash
@@ -50,7 +50,7 @@
     git push -u origin development 
 ```
 
-## MERGE
+## 3. MERGE
 
 - Cambiamos a la rama **main**
 ```bash
